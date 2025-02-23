@@ -309,7 +309,10 @@
                     "GMFE",
                     "Measure"
                 ],
-                "PlotType": "predictedVsObserved|residualsOverTime",
+                "PlotTypes": [
+                    "predictedVsObserved",
+                    "residualsOverTime"
+                ],
                 "Groups": [
                     {
                         "Caption": "Rosuvastatin iv (model building)",
