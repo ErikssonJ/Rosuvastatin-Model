@@ -42,7 +42,7 @@ For OATP1B1/3 the expression profiles was considered only for OATP1B1 and is bas
 
 The OATP2B1 expression profiles is based on whole genome expression arrays from ArrayExpress ([Kolesnikov 2015](#5-references)). Transporter activity was described as saturable process following Michaelis-Menten kinetics, were the `Km` was taken from literature and `kcat` was optimized based on clinical data (see [Section 2.3.4](#234-automated-parameter-identification)).
 
-Additionally, passive renal clearance by glomerular filtration was implemented and the `GFR fraction` was set to 1. In addition, fraction of bile that was continously released was set to 1 (`EHC continuous fraction`)
+Additionally, passive renal clearance by glomerular filtration was implemented and the `GFR fraction` was set to 1. In addition, fraction of bile that was continuously released was set to 1 (`EHC continuous fraction`)
 
 
 ### 2.3.4 Automated Parameter Identification

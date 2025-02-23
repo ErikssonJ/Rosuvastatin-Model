@@ -12,7 +12,7 @@ A literature search was performed to collect available information on physicoche
 | K<sub>m</sub> BCRP      | µmol/L   | 2.02      | [Kitamura 2008](#5-references)            | BCRP Michaelis-Menten constant                             |
 | K<sub>m</sub> OAT3      | µmol/L   | 7.40      | [Windass 2007](#5-references)                | OAT3 Michaelis-Menten constant                                 |
 | K<sub>m</sub> OATP2B1   | µmol/L   | 6.42      | [Kitamura 2008](#5-references)        | OATP2B1 Michaelis-Menten constant                                   |
-| K<sub>m</sub> OATP1B1/3 | µmol/L   | 0.80      | [Kitamura 2008](#5-references)          | OATP1B1/3 Michaelis-Menten connstant                                 |
+| K<sub>m</sub> OATP1B1/3 | µmol/L   | 0.80      | [Kitamura 2008](#5-references)          | OATP1B1/3 Michaelis-Menten constant                                 |
 | K<sub>m</sub> Pgp       | µmol/L   | 203       | [Goard 2010](#5-references)            | Pgp Michaelis-Menten constant                             |
 | Weibull shape           | -        | 1.77      | [Seo 2019](#5-references)            | Dissolution profile shape                             |
 | Weibull time            | min      | 6.25      | [Seo 2019](#5-references)            | Dissolution time (50% dissolved)                            |
