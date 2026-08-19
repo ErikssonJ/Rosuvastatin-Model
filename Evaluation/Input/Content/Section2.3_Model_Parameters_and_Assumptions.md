@@ -59,7 +59,7 @@ The following parameters were optimized by fitting the model to the data:
 | `kcat` (OATP2B1)                  |
 | `Specific intestinal permeability`| 
 | `P(intracell->interstitial) small intestine`|
-| `P(intracell->interstitial) small intestine`|
+| `P(intracell->interstitial) large intestine`|
 
 
  
