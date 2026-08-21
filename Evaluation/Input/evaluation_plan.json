@@ -181,7 +181,7 @@
             },
             {
                 "Project": "Rosuvastatin",
-                "Simulation": "po 20 mg, FDA 2002, caps, n=6",
+                "Simulation": "po 20 mg, FDA 2003, caps, n=6",
                 "SectionId": 331
             },
             {
@@ -281,7 +281,7 @@
             },
             {
                 "Project": "Rosuvastatin",
-                "Simulation": "po 20 mg QD, FDA 2002, caps, n=6",
+                "Simulation": "po 20 mg QD, FDA 2003, caps, n=6",
                 "SectionId": 332
             },
             {
@@ -344,9 +344,9 @@
                             },
                             {
                                 "Project": "Rosuvastatin",
-                                "Simulation": "po 20 mg, FDA 2002, caps, n=6",
+                                "Simulation": "po 20 mg, FDA 2003, caps, n=6",
                                 "Output": "Organism|PeripheralVenousBlood|Rosuvastatin|Plasma (Peripheral Venous Blood)",
-                                "ObservedData": "FDA 2002 - PO Rosuvastatin 20 mg control - Rosuvastatin - PO - 20 mg - Plasma - agg. (n=6)",
+                                "ObservedData": "FDA 2003 - PO Rosuvastatin 20 mg control - Rosuvastatin - PO - 20 mg - Plasma - agg. (n=6)",
                                 "Color": "#000000"
                             },
                             {
@@ -560,9 +560,9 @@
                             },
                             {
                                 "Project": "Rosuvastatin",
-                                "Simulation": "po 20 mg QD, FDA 2002, caps, n=6",
+                                "Simulation": "po 20 mg QD, FDA 2003, caps, n=6",
                                 "Output": "Organism|PeripheralVenousBlood|Rosuvastatin|Plasma (Peripheral Venous Blood)",
-                                "ObservedData": "FDA 2002 - PO Rosuvastatin 20 mg QD control - Rosuvastatin - PO - 20 mg - Plasma - agg. (n=6)",
+                                "ObservedData": "FDA 2003 - PO Rosuvastatin 20 mg QD control - Rosuvastatin - PO - 20 mg - Plasma - agg. (n=6)",
                                 "Color": "#000000"
                             },
                             {
